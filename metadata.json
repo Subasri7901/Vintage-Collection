@@ -1,0 +1,6 @@
+{
+  "name": "Atelier & Relic | Curated Vintage & Antiquities",
+  "description": "Exquisite archival antiquities, restored mid-century analog optics, mechanical horology, and heirloom collectibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
